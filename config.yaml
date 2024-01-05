@@ -1,0 +1,6 @@
+model_list: 
+  - model_name: codellama-litellm
+    litellm_params:
+      model: ollama/codellama
+      api_base: http://0.0.0.0:11434
+      api_key: "temp"
